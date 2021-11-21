@@ -10,6 +10,7 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalves9&show_icons=true&theme=dracula)
 <br/>
+
 ## Tecnologias que estudo atualmente: 
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
