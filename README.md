@@ -9,3 +9,6 @@ About me:
 
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalves9&show_icons=true&theme=dracula)
+
+## Tecnologias que estudo atualmente: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rafaelalves9/github-readme-stats)
