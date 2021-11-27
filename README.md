@@ -8,9 +8,6 @@
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
 <br/><br/>
 
-![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAlves9&show_icons=true&theme=dracula)
-<br/>
-
 ## Tecnologias que estudo atualmente: 
 <br/>
 <div style="display: inline_block">
