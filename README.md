@@ -2,7 +2,7 @@
 
 ## About me:
 ⬆️ Level: 21 years <br/>
-🌟 Exp: 3 month of study<br/>
+🌟 Exp: 4 month of study<br/>
 🎯 Objetive: Analysis and Systems Development<br/>
 <br/>
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
