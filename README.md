@@ -1,8 +1,8 @@
 # Olá! Sou o Rafael Alves 👋
 
 ## About me:
-⬆️ Level: 21 years <br/>
-🌟 Exp: 4 month of study<br/>
+⬆️ Level: 22 years <br/>
+🌟 Exp: 5 month of study<br/>
 🎯 Objetive: Analysis and Systems Development<br/>
 <br/>
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
