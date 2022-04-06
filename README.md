@@ -1,9 +1,9 @@
 # Olá! Sou o Rafael Alves 👋
 
 ## About me:
-⬆️ Level: 22 years <br/>
-🌟 Exp: 5 month of study<br/>
-🎯 Objetive: Analysis and Systems Development<br/>
+⬆️ Idade: 22 anos <br/>
+🌟 Exp: 5 meses de estudo<br/>
+🎯 Objetivo: Tornar-me um desenvolvedor profissional,<br/>
 <br/>
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
 <br/><br/>
