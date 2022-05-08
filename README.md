@@ -2,7 +2,7 @@
 
 ## About me:
 ⬆️ Idade: 22 anos <br/>
-🌟 Exp: 5 meses de estudo<br/>
+🌟 Exp: 6 meses de estudo<br/>
 🎯 Objetivo: Tornar-me um desenvolvedor profissional e poder viver fazendo o que amo<br/>
 <br/>
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
