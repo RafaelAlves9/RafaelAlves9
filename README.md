@@ -4,11 +4,8 @@
 ⬆️ Idade: 22 anos <br/>
 🌟 Exp: 6 meses de estudo<br/>
 🎯 Objetivo: Tornar-me um desenvolvedor profissional e poder viver fazendo o que amo<br/>
-<br/>
-### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
-<br/>
 ### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
-<br/><br/>
+#### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
 
 ## Tecnologias que estudo atualmente: 
 <br/>
