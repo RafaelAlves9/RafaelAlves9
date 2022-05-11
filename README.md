@@ -5,9 +5,10 @@
 🌟 Exp: 6 meses de estudo<br/>
 🎯 Objetivo: Tornar-me um desenvolvedor profissional e poder viver fazendo o que amo<br/>
 <br/>
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412/)
+### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
+<br/>
+### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
 <br/><br/>
-### <a href="">Meu Site Pessoal</a>
 
 ## Tecnologias que estudo atualmente: 
 <br/>
