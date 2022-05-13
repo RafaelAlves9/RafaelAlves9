@@ -3,6 +3,7 @@
 ## About me:
 ⬆️ Idade: 22 anos <br/>
 🌟 Exp: 7 meses de estudo<br/>
+📚 Faculdade: Análise e Desenvolvimento de Sistemas <br/>
 🎯 Objetivo: Tornar-me um desenvolvedor profissional e poder viver fazendo o que amo<br/>
 ### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
 #### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
