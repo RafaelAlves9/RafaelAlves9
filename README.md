@@ -2,13 +2,13 @@
 
 ## About me:
 ⬆️ Idade: 22 anos <br/>
-🌟 Exp: 7 meses de estudo<br/>
+🌟 Exp: Estagiário de Desenvolvimento FullStack<br/>
 📚 Faculdade: Análise e Desenvolvimento de Sistemas <br/>
 🎯 Objetivo: Tornar-me um desenvolvedor profissional e poder viver fazendo o que amo<br/>
 ### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
 #### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
 
-## Tecnologias que estudo atualmente: 
+## Tecnologias: 
 <br/>
 <div style="display: inline_block">
 <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
