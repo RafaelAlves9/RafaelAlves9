@@ -2,7 +2,7 @@
 
 ## About me:
 ⬆️ Idade: 22 anos <br/>
-🌟 Exp: Desenvolvedor Web FullStack<br/>
+🌟 Exp: Desenvolvedor Web Front End
 📚 Faculdade: Análise e Desenvolvimento de Sistemas <br/>
 ### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
 #### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
