@@ -11,8 +11,8 @@ Desenvolvedor Front-end ReactJS / Typescript, sou versátil e me adapto facilmen
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; Atualmente trabalhando na X-Bits Software and Services Ltda como Desenvolvedor Front-end.
-- 🌱 &nbsp; Ativamente me especializando no ecossistema javascript.
-- 👨🏻‍💻 &nbsp; Veja meus projetos didátics em [Github](https://github.com/RafaelAlves9?tab=repositories)
+- 🌱 &nbsp; Ativamente estudando e me especializando no ecossistema javascript.
+- 👨🏻‍💻 &nbsp; Veja meus projetos em [Github](https://github.com/RafaelAlves9?tab=repositories)
 - 📫 &nbsp; Fique à vontade para entrar em contrato pelo Linkedin [LinkedIn](https://www.linkedin.com/in/rafael-alves412/)
 
 <br>
