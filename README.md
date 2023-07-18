@@ -1,23 +1,18 @@
-# Olá! Sou o Rafael Alves 👋
+Hey 👋, I'm Rahul Jha!
+linkedintwitterkaggle
 
-## About me:
-⬆️ Idade: 22 anos <br/>
-🌟 Exp: Desenvolvedor Web Front End
-📚 Faculdade: Análise e Desenvolvimento de Sistemas <br/>
-### <a href="https://rafaelalves.vercel.app/">Meu Site Pessoal</a>
-#### <a href="https://www.linkedin.com/in/Rafael-Alves412/">LinkedIn</a>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-## Tecnologias: 
-<br/>
-<div style="display: inline_block">
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</div>
+
+GIF
+
+🧐 More About Me:
+🔭   I’m currently working on youtube-audio-player
+🤝   I’m looking to collaborate on sheets-database
+🌱   I’m currently learning Typescript;
+👨🏻‍💻   Most of my projects are available on Github
+🎨   Using this svg and Figma I made 👉
+💬   Ask me about anything tech related, I am happy to help;
+📫   Feel free to ping me on LinkedIn
+📝   Checkout my resume
+📚   When I am free, I read fantasy and fiction novels. Checkout my Goodreads to see the book I have read
