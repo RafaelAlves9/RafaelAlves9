@@ -1,7 +1,8 @@
-## Olá 👋, Eu sou Rafael Alves!
+## Olá 👋, Sou Rafael Alves!
 <a href='https://www.linkedin.com/in/rafael-alves412/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
-Sou versátil e me adapto facilmente a diferentes tecnologias dependendo do que o projeto exige, mas meu foco é em Desenvolvedor Front-end ReactJS. Adoro explorar novas tecnologias 💻 e aproveitá-las para construir coisas legais 🛠️.
+<br/>
+<br/>
+Desenvolvedor Front-end ReactJS / Typescript, sou versátil e me adapto facilmente a diferentes tecnologias, dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e aproveitá-las para construir coisas legais 🛠️.
 <br/>
 <br/>
 
