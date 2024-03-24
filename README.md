@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/rafael-alves412/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 <br/>
-Desenvolvedor Front-end ReactJS / Typescript. Sou versátil e me adapto facilmente a diferentes tecnologias, dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e aproveitá-las para construir coisas legais 🛠️.
+Engenheiro de Software Front End. Responsável por desenvolver, testar e manter software de alta qualidade que atenda aos requisitos do usuário e aos padrões da empresa. Trabalho em estreita colaboração com uma equipe diversificada para garantir que o software desenvolvido atenda às necessidades do usuário e aos objetivos da empresa.
 <br/>
 <br/>
 
@@ -10,7 +10,7 @@ Desenvolvedor Front-end ReactJS / Typescript. Sou versátil e me adapto facilmen
   
 ### 🧐 Sobre Mim:
 
-- 🔭 &nbsp; Atualmente trabalhando na X-Bits Software and Services Ltda como Desenvolvedor Front-end.
+- 🔭 &nbsp; Atualmente trabalhando na X-Bits Software and Services Ltda como Engenheiro de Software Pleno.
 - 🌱 &nbsp; Ativamente estudando e me especializando no ecossistema javascript.
 - 👨🏻‍💻 &nbsp; Veja meus projetos aqui no [Github](https://github.com/RafaelAlves9?tab=repositories)
 - 📫 &nbsp; Fique à vontade para entrar em contrato pelo [LinkedIn](https://www.linkedin.com/in/rafael-alves412/)
