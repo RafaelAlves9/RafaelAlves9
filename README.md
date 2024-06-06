@@ -3,7 +3,7 @@ Olá 👋, Sou Rafael Alves!
 <br/>
 <br/>
 
-Sou um Engenheiro de Software Front-End com sólida experiência em desenvolver aplicações web modernas e responsivas. Minha expertise principal está em React e TypeScript, e tenho uma paixão por criar interfaces de usuário elegantes e eficientes. Com um forte background em trabalhar em equipes multidisciplinares, meu objetivo é sempre entregar software de alta qualidade que atenda tanto aos requisitos dos usuários quanto aos padrões da empresa.
+Sou um Engenheiro de Software Front-End com sólida experiência em desenvolver aplicações web modernas e responsivas. Minha expertise principal está em React e TypeScript, e tenho uma paixão por criar interfaces de usuário performáticas e eficientes. Com um forte background em trabalhar em equipes multidisciplinares, meu objetivo é sempre entregar software de alta qualidade que atenda tanto aos requisitos dos usuários quanto aos padrões da empresa.
 
 🧐 Sobre Mim:
 <br/>
