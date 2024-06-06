@@ -6,6 +6,7 @@ Olá 👋, Sou Rafael Alves!
 Sou um Engenheiro de Software Front-End com sólida experiência em desenvolver aplicações web modernas e responsivas. Minha expertise principal está em React e TypeScript, e tenho uma paixão por criar interfaces de usuário elegantes e eficientes. Com um forte background em trabalhar em equipes multidisciplinares, meu objetivo é sempre entregar software de alta qualidade que atenda tanto aos requisitos dos usuários quanto aos padrões da empresa.
 
 🧐 Sobre Mim:
+<br/>
 🔭   Atualmente trabalhando na X-Bits Software and Services Ltda como Engenheiro de Software Pleno.
 <br/>
 🌱   Constantemente aprimorando minhas habilidades no ecossistema JavaScript e me mantendo atualizado com as últimas tendências e melhores práticas.
