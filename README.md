@@ -1,34 +1,63 @@
-Olá 👋, Sou Rafael Alves!
-<a href='https://www.linkedin.com/in/rafael-alves412/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
-<br/>
+<h1 align="center">Olá 👋, Eu sou Rafael Alves!</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-alves412/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rafael.alves@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-Sou um Engenheiro de Software Front-End com sólida experiência em desenvolver aplicações web modernas e responsivas. Minha expertise principal está em React e TypeScript, e tenho uma paixão por criar interfaces de usuário performáticas e eficientes. Com um forte background em trabalhar em equipes multidisciplinares, meu objetivo é sempre entregar software de alta qualidade que atenda tanto aos requisitos dos usuários quanto aos padrões da empresa.
+---
 
-🧐 Sobre Mim:
-<br/>
-🔭   Atualmente trabalhando na X-Bits Software and Services Ltda como Engenheiro de Software Pleno.
-<br/>
-🌱   Constantemente aprimorando minhas habilidades no ecossistema JavaScript e me mantendo atualizado com as últimas tendências e melhores práticas.
-<br/>
-👨🏻‍💻   Veja meus projetos aqui no Github.
-<br/>
-📫   Fique à vontade para entrar em contato pelo LinkedIn.
-<br/><br/>
-<br/>
-🔨 Linguagens e Tecnologias:<br/>:<br/>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dotnet/dotnet.svg" alt=".NET" height='42px'/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg" alt="C#" height='42px'/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg" alt="SQL" height='42px'/> </a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/azure/azure.svg" alt="Azure" height='42px'/> </a>
+### 👨‍💻 Sobre Mim:
+- 🔭 Atualmente trabalhando como Engenheiro de Software Pleno na **X-Bits Software and Services Ltda**.
+- 🌱 Constantemente aprimorando minhas habilidades em **React**, **TypeScript** e as melhores práticas do ecossistema JavaScript.
+- 👨‍💻 Meus projetos estão disponíveis aqui no [GitHub](https://github.com/seu-username).
+- 📫 Fique à vontade para entrar em contato no [LinkedIn](https://www.linkedin.com/in/rafael-alves412/).
 
-<br><br><br>
+---
 
-<br><br><br>
+### 🛠️ Habilidades e Tecnologias:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
+</div>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&hide_border=true&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 Achievements:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seu-username&theme=onedark&no-frame=true&column=3" />
+</div>
+
+---
+
+### 🚀 Últimos Projetos:
+- **[Projeto 1](https://github.com/seu-username/projeto1)**: Breve descrição do projeto.
+- **[Projeto 2](https://github.com/seu-username/projeto2)**: Breve descrição do projeto.
+
+---
+
+### 🎨 Outros Ícones e Estilizações:
+- Para adicionar mais ícones, use a biblioteca [DevIcons](https://github.com/devicons/devicon) ou [Shields.io](https://shields.io/).
+
+---
+
+Espero que essa versão seja útil! Quer ajustar algo ou adicionar algo mais? 😊
