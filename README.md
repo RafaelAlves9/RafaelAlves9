@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim:
-- 🔭 Atualmente trabalhando como Engenheiro de Software Pleno na **X-Bits Software and Services Ltda**.
+- 🔭 Atualmente trabalhando como Engenheiro de Software na **X-Bits Software and Services Ltda**.
 - 🌱 Constantemente aprimorando minhas habilidades em **React**, **TypeScript** e as melhores práticas do ecossistema JavaScript.
 - 👨‍💻 Meus projetos estão disponíveis aqui no [GitHub](https://github.com/seu-username).
 - 📫 Fique à vontade para entrar em contato no [LinkedIn](https://www.linkedin.com/in/rafael-alves412/).
@@ -34,30 +34,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&hide_border=true&theme=tokyonight" />
-</div>
-
----
-
-### 🏆 Achievements:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-username&theme=onedark&no-frame=true&column=3" />
-</div>
-
----
-
-### 🚀 Últimos Projetos:
-- **[Projeto 1](https://github.com/seu-username/projeto1)**: Breve descrição do projeto.
-- **[Projeto 2](https://github.com/seu-username/projeto2)**: Breve descrição do projeto.
-
----
-
-### 🎨 Outros Ícones e Estilizações:
-- Para adicionar mais ícones, use a biblioteca [DevIcons](https://github.com/devicons/devicon) ou [Shields.io](https://shields.io/).
-
----
-
-Espero que essa versão seja útil! Quer ajustar algo ou adicionar algo mais? 😊
