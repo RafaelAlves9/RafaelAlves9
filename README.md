@@ -14,7 +14,7 @@
 
 ## 🎯 Sobre Mim
 
-Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de aplicações web escaláveis e interfaces modernas. Atualmente liderando projetos na **X-Bits Software**, com foco em **React**, **Next.js** e arquiteturas de alta performance.
+Engenheiro de Software Front-End com experiência em desenvolvimento de aplicações web escaláveis e interfaces modernas. Atualmente liderando projetos na **X-Bits Software**, com foco em **React**, **Next.js** e arquiteturas de alta performance.
 
 - 🔭 Trabalhando em projetos de **grande escala** com milhares de usuários
 - 🌱 Sempre aprendendo sobre **performance web** e **arquiteturas modernas**
@@ -33,10 +33,9 @@ Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
