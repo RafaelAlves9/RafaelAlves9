@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Rafael Alves!
 
-### 🚀 Engenheiro de Software Front-End Sênior
+### 🚀 Engenheiro de Software Front-End
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelAlves9)
@@ -14,7 +14,7 @@
 
 ## 🎯 Sobre Mim
 
-Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de aplicações web escaláveis e interfaces modernas. Atualmente liderando projetos multinacionais na **X-Bits Software**, com foco em **React**, **Next.js** e arquiteturas de alta performance.
+Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de aplicações web escaláveis e interfaces modernas. Atualmente liderando projetos na **X-Bits Software**, com foco em **React**, **Next.js** e arquiteturas de alta performance.
 
 - 🔭 Trabalhando em projetos de **grande escala** com milhares de usuários
 - 🌱 Sempre aprendendo sobre **performance web** e **arquiteturas modernas**
@@ -70,43 +70,6 @@ Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de 
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelAlves9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves9&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 📚 Biblioteca Open Source
-> Biblioteca JavaScript/TypeScript para [descreva brevemente o propósito]
-- **Tech Stack:** React, TypeScript, Jest
-- **Features:** [liste 2-3 principais funcionalidades]
-- [🔗 Ver Repositório](link-do-repo)
-
-### 📱 Aplicação Mobile (POC)
-> Aplicação mobile para [descreva brevemente o propósito]
-- **Tech Stack:** React Native, Kotlin
-- **Features:** [liste 2-3 principais funcionalidades]
-- [🔗 Ver Repositório](link-do-repo)
-
-### 🌐 API REST (POC)
-> API REST para [descreva brevemente o propósito]
-- **Tech Stack:** C#, .NET 9, SQL
-- **Features:** [liste 2-3 principais funcionalidades]
-- [🔗 Ver Repositório](link-do-repo)
-
-### 🧪 POCs Educacionais
-> Coleção de Proof of Concepts para demonstrar conceitos avançados de frontend
-- **Temas:** Performance, Arquitetura, Padrões de Design
-- **Tecnologias:** React, Next.js, Micro-frontends
-- [🔗 Ver Coleção](link-dos-repos)
-
----
-
 ## 🎓 Formação & Certificações
 
 - 🎓 **Pós-Graduação em Engenharia de Software** - PUC
@@ -114,26 +77,6 @@ Engenheiro de Software Front-End Sênior com experiência em desenvolvimento de 
 - 🏆 **Meta Advanced React Certificate** - Meta (Facebook)
 - 🚀 **Formação Front-end Completa** - Rocketseat
 - 📚 **Formação FullStack JavaScript** - Alura
-
----
-
-## 💼 Experiência Profissional
-
-**🔹 Engenheiro de Software - Front End** | X-Bits Software (jul/2022 - atual)
-- Liderança técnica em portal multinacional (React, Next.js, Tailwind CSS)
-- Implementação de arquitetura front-end robusta e código limpo
-- CI/CD com Docker e Azure DevOps
-
-**🔹 Engenheiro de Software** | Audience Tecnologia (mar/2022 - jul/2022)
-- Desenvolvimento de aplicações web (React, TypeScript)
-- Foco em performance e testes automatizados
-
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -148,9 +91,5 @@ Estou sempre aberto para discutir sobre tecnologia, trocar experiências e colab
 ---
 
 <div align="center">
-
-### ⭐ Se você chegou até aqui, que tal dar uma estrela nos repositórios que achou interessantes?
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RafaelAlves9.RafaelAlves9)
 
 </div>
