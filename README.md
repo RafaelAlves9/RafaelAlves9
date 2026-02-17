@@ -1,94 +1,147 @@
-<div align="center">
+# Rafael Alves | Senior Full Stack Engineer & Tech Lead
 
-# 👋 Olá, eu sou Rafael Alves!
+Engenheiro de Software Sênior especializado em arquiteturas distribuídas e escaláveis, atuando de ponta a ponta: da camada de apresentação com SSR otimizado para SEO até backend orientado a microservices e infraestrutura cloud multi-provider (AWS & Azure).
 
-### 🚀 Engenheiro de Software Front-End
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves412)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelAlves9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrafael.alves9@gmail.com)
-
-</div>
+Minha atuação combina **arquitetura, performance, observabilidade e estratégia técnica**, sempre alinhada a impacto real de negócio.
 
 ---
 
-## 🎯 Sobre Mim
+## 🧠 Core Expertise
 
-Engenheiro de Software Front-End com experiência em desenvolvimento de aplicações web escaláveis e interfaces modernas. Atualmente liderando projetos na **X-Bits Software**, com foco em **React**, **Next.js** e arquiteturas de alta performance.
+### 🎯 Frontend Architecture
 
-- 🔭 Trabalhando em projetos de **grande escala** com milhares de usuários
-- 🌱 Sempre aprendendo sobre **performance web** e **arquiteturas modernas**
-- 👯 Colaborando com times **multidisciplinares** em ambientes **ágeis**
-- 💬 Pergunte-me sobre **React**, **Next.js**, **TypeScript**, **React Native**, **Kotlin**, **C#**, **.NET 9**, **SQL** e **otimização de performance**
-- ⚡ Curiosidade: Apaixonado por **clean code** e **experiência do usuário**
+* React 18/19, Next.js (App Router, Server Components)
+* TypeScript avançado (strict mode, utility types, Zod schema validation)
+* Microfrontends com **Single-SPA**
+* State Management: Redux, TanStack Query
+* Comunicação em tempo real: **WebSockets (Socket.io / WS nativo)**
+* GraphQL (Apollo Client, Codegen, Cache Strategies)
+* Tailwind CSS, Design Systems, Theming
 
----
+#### 🔎 SEO Avançado & Performance
 
-## 🛠️ Stack Tecnológica
+* SSR, SSG, ISR e Edge Rendering
+* Streaming Server Components
+* Structured Data (Schema.org / JSON-LD)
+* Canonical strategy & hreflang
+* Core Web Vitals (LCP, CLS, INP optimization)
+* Preload, Prefetch & HTTP caching strategies
+* Sitemap automation & robots management
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+#### 🌍 Internacionalização (i18n)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Styling & UI
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Estado & Dados
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Testes
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+* Next.js i18n routing
+* Lazy loaded locale bundles
+* Dynamic content translation
+* RTL/LTR support
+* SEO multi-região com hreflang
 
 ---
 
-## 🎓 Formação & Certificações
+### ⚙️ Backend & Distributed Systems
 
-- 🎓 **Pós-Graduação em Engenharia de Software** - PUC
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-- 🏆 **Meta Advanced React Certificate** - Meta (Facebook)
-- 🚀 **Formação Front-end Completa** - Rocketseat
-- 📚 **Formação FullStack JavaScript** - Alura
+* Node.js, **NestJS**
+* Prisma ORM
+* ASP.NET Core (.NET 8/9)
+* REST & GraphQL APIs
+* Arquitetura de **Microservices**
+* Arquitetura **Serverless**
+* WebSockets para comunicação bidirecional
+* Event-driven patterns
+* Clean Architecture & DDD
+
+#### 🗄️ Data Layer
+
+* SQL Server, PostgreSQL
+* Redis (cache & pub/sub)
+* RDS
+* Migrations e versionamento de schema
 
 ---
 
-## 🤝 Vamos Conectar?
+### ☁️ Cloud & Infrastructure
 
-Estou sempre aberto para discutir sobre tecnologia, trocar experiências e colaborar em projetos interessantes!
+#### AWS
+* EC2
+* Lambda
+* API Gateway
+* RDS
+* ECR
+* S3
+* CloudWatch
 
-- 💼 **LinkedIn:** [rafael-alves412](https://www.linkedin.com/in/rafael-alves412)
-- 📧 **Email:** hrafael.alves9@gmail.com
-- 🌐 **Portfolio:** [Meu Site](https://rafaelalves.site/)
+#### Azure
+* Azure Functions
+* Azure App Services
+* VM com IIS
+* Azure DevOps
+* Azure Container Registry
+
+#### DevOps & Containers
+
+* Docker
+* Docker Compose
+* CI/CD completo (build, test, lint, security scan, deploy)
+* Jenkins → Azure DevOps migration
+* Multi-environment deployment strategies
+* Versionamento semântico e automação de release
 
 ---
 
-<div align="center">
+### 📊 Observabilidade & Monitoramento
 
-</div>
+* Logging estruturado
+* Métricas customizadas
+* Distributed tracing
+* **Grafana dashboards**
+* Monitoramento com CloudWatch / Application Insights
+* Health checks e circuit breakers
+
+---
+
+## 🚀 Resultados e Impacto
+
+### Performance
+* Redução de carregamento: **12s → <400ms** (40k+ registros)
+* Otimização de Core Web Vitals em aplicações enterprise
+
+### Arquitetura
+* Migração de monolitos legados para microservices
+* Modernização React 17 → React 19
+* .NET 2.1 → .NET 8/9
+
+### DevOps
+* Build time: **7min → 30s**
+* Esteiras completas de CI/CD em Azure e AWS
+* Containerização e padronização de ambientes
+
+### Negócio
+* Redução de processos jurídicos: **7 dias → 4 horas**
+* Plataforma nacional com **3k+ usuários ativos/dia**
+
+---
+
+## 🏗️ Arquitetura como Mentalidade
+
+Minha abordagem técnica é orientada a:
+
+* Escolha arquitetural baseada em requisitos reais (monolito modular vs microservices vs serverless)
+* Observabilidade desde o design
+* Performance como requisito não-funcional primário
+* Segurança by design (CSP, XSS mitigation, sanitização)
+* Padronização e escalabilidade de times
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://linkedin.com/in/rafael-alves412/
+* GitHub: https://github.com/RafaelAlves9
+* Email: hrafael.alves9@gmail.com
+* Curitiba, PR — Remote Global
+
+---
+
+<p align="center">
+  <i>Software sênior não é sobre complexidade. É sobre decisões que escalam.</i>
+</p>
