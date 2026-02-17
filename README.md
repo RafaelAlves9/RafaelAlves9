@@ -1,4 +1,4 @@
-# Rafael Alves | Senior Full Stack Engineer & Tech Lead
+# Rafael Alves | Senior Software Engineer & Tech Lead
 
 Engenheiro de Software Sênior especializado em arquiteturas distribuídas e escaláveis, atuando de ponta a ponta: da camada de apresentação com SSR otimizado para SEO até backend orientado a microservices e infraestrutura cloud multi-provider (AWS & Azure).
 
