@@ -14,16 +14,14 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 * TypeScript avançado (strict mode, utility types, Zod schema validation)
 * Microfrontends com **Single-SPA**
 * State Management: Redux, TanStack Query
-* Comunicação em tempo real: **WebSockets (Socket.io / WS nativo)**
-* GraphQL (Apollo Client, Codegen, Cache Strategies)
+* Comunicação em tempo real: **WebSockets (Socket.io / SignalR)**
+* GraphQL
 * Tailwind CSS, Design Systems, Theming
 
 #### 🔎 SEO Avançado & Performance
 
 * SSR, SSG, ISR e Edge Rendering
 * Streaming Server Components
-* Structured Data (Schema.org / JSON-LD)
-* Canonical strategy & hreflang
 * Core Web Vitals (LCP, CLS, INP optimization)
 * Preload, Prefetch & HTTP caching strategies
 * Sitemap automation & robots management
@@ -34,7 +32,6 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 * Lazy loaded locale bundles
 * Dynamic content translation
 * RTL/LTR support
-* SEO multi-região com hreflang
 
 ---
 
@@ -44,6 +41,7 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 * Prisma ORM
 * ASP.NET Core (.NET 8/9)
 * REST & GraphQL APIs
+* Arquitetura de **Monolito**
 * Arquitetura de **Microservices**
 * Arquitetura **Serverless**
 * WebSockets para comunicação bidirecional
@@ -52,7 +50,7 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 
 #### 🗄️ Data Layer
 
-* SQL Server, PostgreSQL
+* SQL Server, PostgreSQL, MondoDB
 * Redis (cache & pub/sub)
 * RDS
 * Migrations e versionamento de schema
@@ -69,13 +67,13 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 * ECR
 * S3
 * CloudWatch
+* CloudFront CDN
 
 #### Azure
 * Azure Functions
 * Azure App Services
 * VM com IIS
 * Azure DevOps
-* Azure Container Registry
 
 #### DevOps & Containers
 
@@ -90,12 +88,10 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 
 ### 📊 Observabilidade & Monitoramento
 
-* Logging estruturado
 * Métricas customizadas
 * Distributed tracing
 * **Grafana dashboards**
 * Monitoramento com CloudWatch / Application Insights
-* Health checks e circuit breakers
 
 ---
 
@@ -106,7 +102,7 @@ Minha atuação combina **arquitetura, performance, observabilidade e estratégi
 * Otimização de Core Web Vitals em aplicações enterprise
 
 ### Arquitetura
-* Migração de monolitos legados para microservices
+* Migração de monolitos frontend para microfrontend
 * Modernização React 17 → React 19
 * .NET 2.1 → .NET 8/9
 
